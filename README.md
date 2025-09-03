@@ -45,7 +45,7 @@ Do CS assignment:
 - go to KHUB    
 - answer the questions      
 - attach file     
-- submit to KHUB before deadline
+- submit to KHUB before deadline.
 
 DEADLINE: SEPTEMBER 4, 2025 on THURSDAY
 
