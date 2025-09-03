@@ -36,12 +36,12 @@ A simple program that tracks tasks that the user inputs. It sets deadlines based
  Enter Deadline: 9/4/2025
 
 Table 
-TASK: Do CS assignment
-
-      - go to KHUB
-      - answer the questions
-      - attach file
-      - submit to KHUB before deadline
+TASK: Do CS assignment    
+ 
+- go to KHUB    
+- answer the questions      
+- attach file     
+- submit to KHUB before deadline
 
 DEADLINE: SEPTEMBER 4, 2025 on THURSDAY
 
