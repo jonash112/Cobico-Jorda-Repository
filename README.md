@@ -21,20 +21,22 @@ A simple program that tracks tasks that the user inputs. It sets deadlines based
 - Follow the instructions set
 
 ## Example Output:
-Enter task 1: Do CS assignment
-Enter amount steps: 4
-Enter step 1: go to KHUB
-Enter step 2: answer the questions
-Enter step 3: attach file
-Enter step 4: submit to KHUB before deadline
-Enter Deadline: 9/4/2025
+ Enter task : Do CS assignment
+ Enter amount of steps: 4
+ Enter step 1: go to KHUB
+ Enter step 2: answer the questions
+ Enter step 3: attach file
+ Enter step 4: submit to KHUB before deadline
+ Enter Deadline: 9/4/2025
 
 Table 
 TASK: Do CS assignment
+
       - go to KHUB
       - answer the questions
       - attach file
       - submit to KHUB before deadline
+
 DEADLINE: SEPTEMBER 4, 2025 on THURSDAY
 
 ## Contributors
