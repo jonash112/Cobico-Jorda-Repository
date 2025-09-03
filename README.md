@@ -35,7 +35,8 @@ A simple program that tracks tasks that the user inputs. It sets deadlines based
 
  Enter Deadline: 9/4/2025
 
-Table 
+Table of Tasks
+
 TASK: Do CS assignment  
   
  INSTRUCTIONS
