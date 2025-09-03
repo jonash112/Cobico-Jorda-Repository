@@ -21,7 +21,9 @@ A simple program that tracks tasks that the user inputs. It sets deadlines based
 - Follow the instructions set
 
 ## Example Output:
- Enter task : Do CS assignment
+ Enter amount of tasks: 1
+
+ Enter task 1 name: Do CS assignment
 
  Enter amount of steps: 4
 
@@ -37,7 +39,7 @@ A simple program that tracks tasks that the user inputs. It sets deadlines based
 
 Table of Tasks
 
-TASK: Do CS assignment  
+Do CS assignment:  
   
  INSTRUCTIONS
 - go to KHUB    
