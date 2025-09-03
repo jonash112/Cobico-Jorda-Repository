@@ -22,11 +22,17 @@ A simple program that tracks tasks that the user inputs. It sets deadlines based
 
 ## Example Output:
  Enter task : Do CS assignment
+
  Enter amount of steps: 4
+
  Enter step 1: go to KHUB
+
  Enter step 2: answer the questions
+
  Enter step 3: attach file
+
  Enter step 4: submit to KHUB before deadline
+
  Enter Deadline: 9/4/2025
 
 Table 
