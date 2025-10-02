@@ -131,20 +131,18 @@ BEGIN
  for each task in taskList  
     Display "Task Name: " + taskName  
     Display "Task Description: " + taskDescription  
-
-    if instruction != "None" then  
-       Display "Instructions: " + instructions  
-    elseif steps != "None" then  
-       Display "Steps: " + steps  
-    endif  
-
-    Display "Timer: " + timer  
-    Display "Task Category: " + taskCategory  
-    Display "Deadline: " + deadline  
-    Display "||||||||||||||||||||||||||"  
+    
+  if instructions != "None then
+     Display "Instructions: " + instructions
+  elseif steps != "None" then
+     Display "Steps: " + steps
+  
+  end if
+  Display "Timer: " + timer
+  Display "Task Category: " + taskCategory
+  Display "Deadline: " + deadline
+  Display "|||||||||||||||||||||||||"
  END  
-
----
 
 ## Contributors
 - Jonash Miguel Aidan Cobico (encoder)  
