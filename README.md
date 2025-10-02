@@ -111,12 +111,12 @@ CREATE newTask with:
           Category = category
           Deadline = deadline
           
-Display "Do you want to add another task?"
-Display "1. Yes"
-Display "2. No"
-Input moreTasks then end line
-  add newTask to taskList
-  until moreTasks == "no"
+-Display "Do you want to add another task?"
+-Display "1. Yes"
+-Display "2. No"
+-Input moreTasks then end line
+  -add newTask to taskList
+  -until moreTasks == "no"
 
 /Final Output
 Display "||||| List of Tasks |||||"
